@@ -1,0 +1,2 @@
+# just-tweet
+CLI からツイートするだけ

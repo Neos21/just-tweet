@@ -1,6 +1,6 @@
 {
   "name": "@neos21/just-tweet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ツイートするだけの CLI ツール。",
   "main": "main.js",
   "bin": {
@@ -9,16 +9,20 @@
   "scripts": {
     "start": "node main.js"
   },
+  "author": "Neo <neos21@gmail.com> (http://neo.s21.xrea.com/)",
+  "license": "MIT",
+  "homepage": "https://github.com/Neos21/just-tweet#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Neos21/just-tweet.git"
   },
-  "author": "Neo <neos21@gmail.com> (http://neo.s21.xrea.com/)",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Neos21/just-tweet/issues"
   },
-  "homepage": "https://github.com/Neos21/just-tweet#readme",
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/Neos21"
+  },
   "dependencies": {
     "twitter": "1.7.1"
   }

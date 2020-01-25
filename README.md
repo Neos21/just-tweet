@@ -27,7 +27,7 @@ $ twi Hello World
 
 ## Author
 
-[Neo](http://neo.s21.xrea.com/) ([@Neos21](https://twitter.com/Neos21))
+[Neo](http://neo.s21.xrea.com/)
 
 - [GitHub - just-tweet](https://github.com/Neos21/just-tweet)
 - [npm - @neos21/just-tweet](https://www.npmjs.com/package/@neos21/just-tweet)

@@ -1,6 +1,6 @@
 {
   "name": "@neos21/just-tweet",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ツイートするだけの CLI ツール。",
   "main": "main.js",
   "bin": {

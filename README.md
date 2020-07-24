@@ -1,6 +1,6 @@
 # Just Tweet : @neos21/just-tweet
 
-[![NPM Version](https://img.shields.io/npm/v/@neos21/just-tweet.svg)](https://www.npmjs.com/package/@neos21/just-tweet)
+[![NPM Version](https://img.shields.io/npm/v/@neos21/just-tweet.svg)](https://www.npmjs.com/package/@neos21/just-tweet) [![GPR Version](https://img.shields.io/github/package-json/v/neos21/just-tweet?label=github)](https://github.com/Neos21/just-tweet/packages/328025)
 
 ツイートするだけの CLI ツール。
 

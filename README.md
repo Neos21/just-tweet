@@ -1,4 +1,4 @@
-# Just Tweet : @neos21/just-tweet
+# @neos21/just-tweet : Just Tweet
 
 [![NPM Version](https://img.shields.io/npm/v/@neos21/just-tweet.svg)](https://www.npmjs.com/package/@neos21/just-tweet) [![GPR Version](https://img.shields.io/github/package-json/v/neos21/just-tweet?label=github)](https://github.com/Neos21/just-tweet/packages/328025)
 
@@ -25,19 +25,9 @@ $ twi Hello World
 ```
 
 
-## Author
-
-[Neo](http://neo.s21.xrea.com/)
-
-- [GitHub - just-tweet](https://github.com/Neos21/just-tweet)
-- [npm - @neos21/just-tweet](https://www.npmjs.com/package/@neos21/just-tweet)
-
-
 ## Links
 
-- [Neo's World](http://neo.s21.xrea.com/)
-- [Corredor](https://neos21.hatenablog.com/)
-- [Murga](https://neos21.hatenablog.jp/)
-- [El Mylar](https://neos21.hateblo.jp/)
-- [Neo's GitHub Pages](https://neos21.github.io/)
+- [Neo's World](https://neos21.net/)
 - [GitHub - Neos21](https://github.com/Neos21/)
+- [GitHub - just-tweet](https://github.com/Neos21/just-tweet)
+- [npm - @neos21/just-tweet](https://www.npmjs.com/package/@neos21/just-tweet)
